@@ -158,15 +158,15 @@ Example:
 <!-- > Mention all of the collaborators of this project. -->
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/fickryiman)
+- Facebook: [@facebookhandle](https://www.facebook.com/fickry.bil.iman)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fickry-bil-iman)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle]()
+- Facebook: [@facebookhandle]()
+- LinkedIn: [LinkedIn]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
