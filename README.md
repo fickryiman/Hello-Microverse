@@ -158,9 +158,9 @@ Example:
 <!-- > Mention all of the collaborators of this project. -->
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/fickryiman)
-- Facebook: [@facebookhandle](https://www.facebook.com/fickry.bil.iman)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fickry-bil-iman)
+- GitHub: [@fickryiman](https://github.com/fickryiman)
+- Facebook: [@fickry.bil.iman](https://www.facebook.com/fickry.bil.iman)
+- LinkedIn: [fickry-bil-iman](https://www.linkedin.com/in/fickry-bil-iman)
 
 👤 **Author2**
 
