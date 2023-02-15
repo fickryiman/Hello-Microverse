@@ -38,13 +38,14 @@
   <summary>Client</summary>
   <ul>
     <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS3</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="#">CSS3</a></li>
+    <li><a href="#"></a></li>
   </ul>
 </details>
 
