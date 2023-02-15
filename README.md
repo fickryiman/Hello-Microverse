@@ -42,28 +42,14 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="#"></a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="#"></a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 <!-- > Describe between 1-3 key features of the application. -->
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[adding index.html file]**
+- **[adding styles to html]**
+- **[adding submit button form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
