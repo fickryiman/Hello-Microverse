@@ -37,14 +37,15 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS3</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
+    <li><a href="#"></a></li>
   </ul>
 </details>
 
@@ -68,7 +69,7 @@
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+## 🚀 Live Demo <a name="live-demo"></a>
 
 <!-- > Add a link to your deployed project. -->
 <!-- - [Live Demo Link](https://github.com/fickryiman/Hello-Microverse) -->
@@ -162,11 +163,11 @@ Example:
 - Facebook: [@fickry.bil.iman](https://www.facebook.com/fickry.bil.iman)
 - LinkedIn: [fickry-bil-iman](https://www.linkedin.com/in/fickry-bil-iman)
 
-👤 **Author2**
+<!-- 👤 **Author2**
 
 - GitHub: [@github]()
 - Facebook: [@facebook]()
-- LinkedIn: [LinkedIn]()
+- LinkedIn: [LinkedIn]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
